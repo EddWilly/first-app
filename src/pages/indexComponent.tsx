@@ -12,3 +12,5 @@ export function IndexComponent2() {
         <div></div>
     )
 }
+
+export default IndexComponent
